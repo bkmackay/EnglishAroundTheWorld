@@ -1,0 +1,70 @@
+
+---
+title: "Course Guide"
+author: "Brad Mackay"
+date: "2 9 2020"
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+css: textBoxes.css
+bibliography: we_refs.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Course Description
+
+The course aims to introduce students to a variety of different ‘Global Englishes’ beyond the British or American varieties with which they may already be familiar. English is spoken (to some extent) by an estimated 2,000,000,000 people (Crystal 2004) and is the official language in over 80 sovereign and non-sovereign states. We will examine the historical and political contexts that have led to the global spread of English and we will take a closer look at the ways English is used, and how it has developed, in different contexts around the world.
+
+The course is split into two main thematic blocks: first, we will consider the main theoretical concepts which have been used to study the spread of English as a global language, and in the second block, we will be exploring these theories through a series of case studies, looking at a variety of English from a different context each week. We will use video, audio and written text to explore the variation in locally marked phonetic, syntactic and lexical features. 
+
+## Learning Outcomes
+
+By the end of this course, students will:
+
+
+-- Have developed an understanding of the political and historical contexts which have led to the spread of English as a lingua franca.
+
+-- Have been introduced to the main concepts behind the spread of English as a global language.
+
+-- Be able to discuss the following points in relation to different English-speaking contexts [see @schneider2011english :xvii]:
+
+* The **reasons** behind the spread of English (why has it spread?).
+* The **process** behind the spread of English (how has it spread?).
+* The **results** of this spread (i.e. where do you find English and what role does it play in different societies?).
+* The **properties** of these varieties (i.e. the phonetic, morphosyntactic, lexical variation found in different contexts).
+* The  **consequences** of the spread of English (how does the presence of English affect people's everyday lives? How do people in different contexts view the use of English?).
+
+## Resources
+
+The readings for each session are available on Blackboard. Please make sure you do the required reading **before** the session. There will also be extra suggested reading for each session, this is not a requirement but is a good starting point if you want to find out more about a particular topic.Seminar worksheets will be made available on Blackboard before each session.
+
+### Corpus of Global Web-Based English (GloWbE)
+
+We will be using the GloWbE corpus [@davies2015expanding]. You can access this corpus for free with your university email account, you just need to register an account with your university email address first, this can be done by clicking [here](https://www.english-corpora.org/glowbe/), or by going to https://www.english-corpora.org/glowbe/
+
+
+## Assessment
+#### Reading 15%
+#### Midterm 25%
+#### Presentation 20%
+#### Final Project 40%
+
+:::: {.yellowbox data-latex=""}
+:::: {.center data-latex=""}
+**Reminder**
+:::
+Assessment is to be undertaken individually. All suspected cases of plagiarism and collusion will be reported and investigated.You must attend class consistently. You must attend at least 80% of the sessions, excessive lateness will be considered absence.
+
+::::
+
+## Feedback
+You will receive written feedback on the midterm, your presentation and your final assignment. The reading assignments on Blackboard are graded automatically and you will receive a grade after completing each test. If you would like any further feedback or to discuss your feedback further please come to my office hours or email me to arrange a meeting.
+
+## Suggested Reading
+If you are accessing this guide online, you can click on the pink links and they should take you directly to the text. If you are not accessing this guide from a university computer, you may need to use the university VPN. For information on accessing information from home click [here](https://www.uni-salzburg.at/index.php?id=32331)
+
+## References
