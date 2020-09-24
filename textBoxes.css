@@ -24,6 +24,24 @@
 }
 
 
+.greenbox {
+  padding: 1em;
+  background: #00b300;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.tealbox {
+  padding: 1em;
+  background: #008080;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
 .yellowbox {
   padding: 1em;
   background: #F9C24B;
@@ -31,4 +49,133 @@
   border: none;
   border-radius: 10px;
 }
+
+/* links */
+a { 
+  color: #D2078E;
+}
+
+a:hover {
+ color: #D50EC6; /* darker color when hovering */
+}
+
+
+
+
+
+/* -----------HERO IMAGE AT TOP OF PAGE -----------*/
+
+/* LARGE HERO IMAGE AT TOP OF PAGE*/
+
+.hero-imageA {
+    position: relative;
+    margin-bottom: 2em;
+    /* liner gradient tints the image darker for readability*/
+    background-image: linear-gradient( rgba(0,0,0,.2), rgba(0,0,0,.2) ), url(https://cdn.trendhunterstatic.com/thumbs/cool-backgrounds.jpeg); 
+    height: 400px;
+    background-size: cover;
+    background-color: #141c25f2;
+    background-position: center center;
+    display: flex; /* Change to `display: none` for no hero image */
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-imageB {
+    position: relative;
+    margin-bottom: 2em;
+    /* liner gradient tints the image darker for readability*/
+    background-image: linear-gradient( rgba(0,0,0,.2), rgba(0,0,0,.2) ), url(https://3.bp.blogspot.com/-EhHF1_hhzHY/UeTzdEccCmI/AAAAAAAAFkQ/lGr1fQ4p4TI/s1600/Earth%2BSpace%2BWallpaper-726456.jpg); 
+    height: 400px;
+    background-size: cover;
+    background-color: #141c25f2;
+    background-position: center center;
+    display: flex; /* Change to `display: none` for no hero image */
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-imageC {
+    position: relative;
+    margin-bottom: 2em;
+    /* liner gradient tints the image darker for readability*/
+    background-image: linear-gradient( rgba(0,0,0,.2), rgba(0,0,0,.2) ), url(https://cdn.trendhunterstatic.com/thumbs/cool-backgrounds.jpeg); 
+    height: 400px;
+    background-size: cover;
+    background-color: #141c25f2;
+    background-position: center center;
+    display: flex; /* Change to `display: none` for no hero image */
+    justify-content: center;
+    align-items: center;
+}
+
+
+.hero-imageD {
+    position: relative;
+    margin-bottom: 2em;
+    /* liner gradient tints the image darker for readability*/
+    background-image: linear-gradient( rgba(0,0,0,.2), rgba(0,0,0,.2) ), url(https://i.pinimg.com/originals/d5/37/f5/d537f59dce1c6dc55e79ddcc40bc14e9.png); 
+    height: 400px;
+    background-size: cover;
+    background-color: #141c25f2;
+    background-position: center center;
+    display: flex; /* Change to `display: none` for no hero image */
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-imageE {
+    position: relative;
+    margin-bottom: 2em;
+    /* liner gradient tints the image darker for readability*/
+    background-image: linear-gradient( rgba(0,0,0,.2), rgba(0,0,0,.2) ), url(https://i.pinimg.com/originals/1a/c9/64/1ac964f9984b3d1a4bd49b612c7c92c8.png); 
+    height: 400px;
+    background-size: cover;
+    background-color: #141c25f2;
+    background-position: center center;
+    display: flex; /* Change to `display: none` for no hero image */
+    justify-content: center;
+    align-items: center;
+}
+
+
+.hero-imageF {
+    position: relative;
+    margin-bottom: 2em;
+    /* liner gradient tints the image darker for readability*/
+    background-image: linear-gradient( rgba(0,0,0,.2), rgba(0,0,0,.2) ), url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/world-map-watercolors-michael-tompsett.jpg); 
+    height: 400px;
+    background-size: cover;
+    background-color: #141c25f2;
+    background-position: center center;
+    display: flex; /* Change to `display: none` for no hero image */
+    justify-content: center;
+    align-items: center;
+}
+
+.top-text {
+  position: relative;
+  font-size: 34px;
+  padding-bottom: 0.5em
+  text-transform: uppercase;
+  text-align: center;
+  display: block; /* Change to `display: none` for no top text */
+  color: #ffffff72;
+}
+
+
+
+.bottom-text {
+  position: relative;
+  letter-spacing: 0.065em;
+  line-height: 1em;
+  font-size: 68px;
+  text-transform: uppercase;
+  text-align: center;
+  display: block; /* Change to `display: none` for no bottom text */
+  color: #ffffff;
+  margin-bottom: 2.5rem;
+  font-weight: bold;
+}
+
 

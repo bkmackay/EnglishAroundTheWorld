@@ -1,19 +1,32 @@
 
 ---
-title: "Course Guide"
-author: "Brad Mackay"
-date: "2 9 2020"
-output:
-  html_document: default
-  pdf_document: default
-  word_document: default
+title: "Universität Salzburg | Brad Mackay"
+author: "Winter Semester 20/21"
 css: textBoxes.css
+output:
+  html_document:
+    includes:
+      in_header: hero-image.html
+  pdf_document: default
 bibliography: we_refs.bib
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+
+:::: {.tealbox data-latex=""}
+:::: {.center data-latex=""}
+**Contact Info**
+:::
+**Lecturer:** Brad Mackay <br>
+**Office:** Unipark 3.220 <br>
+**Email:** bradley.mackay@sbg.ac.at<br>
+**Office Hours:** Thursdays 17:00 - 18:00<br>
+**Teaching:** 90 min seminar<br>
+**Seminar:** Unipark 1.001, Thursdays 17:15 - 18:45<br>
+::::
 
 ## Course Description
 
@@ -66,5 +79,35 @@ You will receive written feedback on the midterm, your presentation and your fin
 
 ## Suggested Reading
 If you are accessing this guide online, you can click on the pink links and they should take you directly to the text. If you are not accessing this guide from a university computer, you may need to use the university VPN. For information on accessing information from home click [here](https://www.uni-salzburg.at/index.php?id=32331)
+<br>
+<br>
+I would highly recommend that everyone read [Unsettling race and language: Toward a raciolinguistic perspective](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30FFC5253F465905D75CDFF1C1363AE3/S0047404517000562a.pdf/unsettling_race_and_language_toward_a_raciolinguistic_perspective.pdf) [@rosa2017unsettling]. You might find it a bit challenging, and it is quite a long read but it provides a fantastic summary of the issues of race and language which are important for the critical analysis of language we will be carrying out in this course.
+
+
+## Syllabus
+
+|Session|Date|Topic|Preparation|Notes|
+|-|--|---|---|---|
+|1|08/10|Introduction: Who owns English? <br> Attitudes to English and English speakers | None| |
+|-| No class this week| |
+|2|22/10| The Spread of English| Global Englishes p10-27 <br> World Englishes: A critical analysis p45-59|Extra reading as we have a 2 week gap|
+|3|29/10|Pidgins and Creoles| Global Englishes p35-56|
+|4|05/11|
+|5|12/11|
+|6|19/11|
+|7|26/11|
+|8|03/12|
+|9|10/12|
+|10|17/12|
+|11|14/01|
+|12|21/01|
+|13|29/01|
+
+
+---
+nocite: |
+  @jenkins2014global, @melchers2011world
+---
 
 ## References
+
