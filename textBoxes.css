@@ -48,6 +48,7 @@
   color: black;
   border: none;
   border-radius: 10px;
+  
 }
 
 /* links */
@@ -114,7 +115,7 @@ a:hover {
     position: relative;
     margin-bottom: 2em;
     /* liner gradient tints the image darker for readability*/
-    background-image: linear-gradient( rgba(0,0,0,.2), rgba(0,0,0,.2) ), url(https://i.pinimg.com/originals/d5/37/f5/d537f59dce1c6dc55e79ddcc40bc14e9.png); 
+    background-image: linear-gradient( rgba(0,0,0,.2), rgba(0,0,0,.2) ), url(https://cdn5.vectorstock.com/i/1000x1000/98/44/abstract-geometric-wallpaper-polygonal-mosaic-vector-16699844.jpg); 
     height: 400px;
     background-size: cover;
     background-color: #141c25f2;
@@ -128,7 +129,7 @@ a:hover {
     position: relative;
     margin-bottom: 2em;
     /* liner gradient tints the image darker for readability*/
-    background-image: linear-gradient( rgba(0,0,0,.2), rgba(0,0,0,.2) ), url(https://i.pinimg.com/originals/1a/c9/64/1ac964f9984b3d1a4bd49b612c7c92c8.png); 
+    background-image: linear-gradient( rgba(0,0,0,.2), rgba(0,0,0,.2) ), url(https://i.pinimg.com/originals/9e/c7/aa/9ec7aaf13de820d50378452a61a201da.jpg); 
     height: 400px;
     background-size: cover;
     background-color: #141c25f2;
@@ -178,4 +179,22 @@ a:hover {
   font-weight: bold;
 }
 
+/* making tables look nicer */
+tr:nth-child(even) {background-color: #f2f2f2;}
 
+
+
+tr:hover {background-color: #008080;
+          color: white;
+}
+
+
+/* Whole document: */
+body{
+  font-family: helvetica;
+  font-size: 12pt;
+}
+/* Headers */
+h1,h2,h3,h4,h5,h6{
+  font-size: 20pt;
+}
