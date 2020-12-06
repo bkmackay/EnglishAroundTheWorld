@@ -106,16 +106,16 @@ The resources listed in the references section are a great start if you want to 
 |2|22/10| The Spread of English| Global Englishes p10-27 <br> World Englishes: A critical analysis p45-59|<span style="color: #139e38;">**READING QUIZ 1**</span>|
 |3|29/10|Pidgins and Creoles| Global Englishes p35-41<br>Guidebook to Sociolinguistics p76-84|<span style="color: #139e38;">**READING QUIZ 2**</span>|
 |4|05/11|English in South Africa| World Englishes p114-118<br> Handbook of World Englishes p158-168|<span style="color: #139e38;">**READING QUIZ 3**</span>|
-|5|12/11|English in South Asia <br> (India & Pakistan)|Handbook of World Englishes<br> p90-108<br> World Englishes p147-151|<span style="color: #139e38;">**READING QUIZ 4**</span>|
+|5|12/11|English in South Asia <br> (India & Pakistan)|Handbook of World Englishes<br> p90-108<br> World Englishes p147-151||
 |6|19/11|Revision |Study for the midterm| <span style="color: #D60487;">**MIDTERM EXAM**</span>|
-|7|26/11|English in Australia &<br>New Zealand/ Aotearoa|Handbook of World Englishes p74-84<br>World Englishes p100-114|<span style="color: #139e38;">**READING QUIZ 5**</span>|
+|7|26/11|English in Australia &<br>New Zealand/ Aotearoa|Handbook of World Englishes p74-84<br>World Englishes p100-114|<span style="color: #139e38;">**READING QUIZ 4**</span>|
 |8|03/12|English in the Caribbean |Handbook of World Englishes p203-219|<span style="color: #139e38;"></span>|
-|9|10/12|English in East & West Africa|World Englishes p154-166<br>Routledge Handbook of World Englishes p197-209 |<span style="color: #139e38;">**READING QUIZ 6**</span>|
-|10|17/12|English in South East Asia|World Englishes p169-180<br> Singapore English p1-6<br>Global Englishes p140-145|<span style="color: #139e38;">**READING QUIZ 7**</span><br> By the end of this week you should all have a plan for your group presentations & your final project.|
+|9|10/12|English in East & West Africa|World Englishes p154-166<br>Routledge Handbook of World Englishes p197-209 |<span style="color: #139e38;">**READING QUIZ 5**</span>|
+|10|17/12|English in South East Asia|World Englishes p169-180<br> Singapore English p1-6<br>Global Englishes p140-145|<span style="color: #139e38;">**READING QUIZ 6**</span><br> By the end of this week you should all have a plan for your group presentations & your final project.|
 |-|Christmas break|
-|11|14/01|Lesser known varieties of English |World Englishes p127-133|<span style="color: #139e38;">**READING QUIZ 8**</span>|
-|12|21/01|English in the Expanding circle & <br> The future of English as a Lingua Franca|World Englishes p186-196<br>Brexit & the future of English in Europe [@bolton2017brexit]|<span style="color: #139e38;">**READING QUIZ 9**</span>|
-|13|29/01|Group presentations
+|11|14/01|Lesser known varieties of English |World Englishes p127-133|<span style="color: #139e38;">**READING QUIZ 7**</span>|
+|12|21/01|English in the Expanding circle & <br> The future of English as a Lingua Franca|World Englishes p186-196<br>Brexit & the future of English in Europe [@bolton2017brexit]|<span style="color: #139e38;">**READING QUIZ 8**</span>|
+|13|28/01|Group presentations
 
 
 ---
