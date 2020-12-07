@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## What is it?
-The final project is an essay in which you expolore in greater depth a topic that we have touched on during the course. You can either choose a question from one of the ones below, or you can decide on your own topic and come up with a research question.
+The final project is an essay in which you explore in greater depth a topic that we have touched on during the course. You can either choose a question from one of the ones below, or you can decide on your own topic and come up with a research question. Please let me know what research question you have chosen before starting work
 
 -------
 
@@ -24,16 +24,32 @@ The final project is an essay in which you expolore in greater depth a topic tha
 
 ------------
 
+:::: {.yellowbox data-latex=""}
 ## How long should it be?
+::::
+
 Between 1500 - 2000 words.
 
 -------------
 
-## Questions
+## Example Questions
 
-1. To what extent
+:::: {.pinkbox data-latex=""}
+1. To what extent does the below quote from Bertrand-Bocandé exemplify British linguistic imperialism during the colonial period? 
 
+>“It is clear that people used to expressing themselves with a rather simple language cannot
+easily elevate their intelligence to the genius of a European language. When they were in
+contact with the Portuguese and forced to communicate with them, speaking the same language, it was necessary that the varied expressions acquired during so many centuries of civilisation dropped their
+perfection, to adapt to ideas being born and to barbarous forms of language of half-savage
+peoples.”
+:::: 
 
+<br>
 
+:::: {.yellowbox data-latex=""}
+2. Compare and contrast Kachru's three circles model @kachru1985standards and Schneider's dynamic model  @schneider2007postcolonial. Which do 
+::::
 
+3. What problems arise with the 3 way distinction of English speakers: ENL, ESL and EFL?
 
+## References
