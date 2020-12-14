@@ -91,7 +91,7 @@ peoples.”
 
 ---
 
-**7. Consider the following quote from Widdowson 1994:**
+**7. Consider the following quote from Widdowson (1994: 385):**
 
 > "How English develops in the world is no business whatever of native
  speakers in England, the United States, or anywhere else. They have
@@ -99,20 +99,57 @@ peoples.”
  are irrelevant. The very fact that English is an international language
  means that no nation can have custody over it. To grant such custody
  of the language, is necessarily to arrest its development and so under-
- mine its international status [...]  it is only
- international to the extent that it is not their language. It is not a
+ mine its international status [...]. It is not a
  possession which they lease out to others, while still retaining the
  freehold. Other people actually own it"
  
  **To what extent do you agree/ disagree with this view?**
 
+<br>
+
 # Group Presentations
 
+<br>
+
+:::: {.pinkbox data-latex=""}
+## How long should it be?
+:::: 
+
+15 mins plus 5 mins at the end for questions. If you are a group of 2, it can be a bit shorter.
+
+---
+
+:::: {.tealbox2 data-latex=""}
+## What is the format?
+:::: 
+
+You can decide how you would best prefer to present, you can either create some slides or if you prefer, a handout. I would definitely advise having some sort of visual though. You can click [here](https://www.youtube.com/watch?v=6bSOAl1i8bw&t=899s) for a video on creating powerful powerpoint slides.
+
+---
+
+
+:::: {.darkbluebox data-latex=""}
+## What should be included?
+:::: 
+
+Think of the presentation as a mini lesson, you might want to split the focus up between you, so one person covers phonetics/ phonology, another covers syntax, another covers lexis etc. What you cover is up to you and depends on what you find interesting during your research phase. It would also be good to give a short background to the variety, but don't spend too much time on this as these are very short presentations.
+
+---
+ 
+:::: {.yellowbox data-latex=""}
+## How is it marked?
+:::: 
+
+You will be marked on the content and delivery (including slides or handout). I will also ask each of you to submit a grade for your co-presenters
+
+---
 
 ---
 nocite: |
  @holm1988pidgins, @janse2003language, @widdowson1994ownership
 ---
+
+<br>
 
 :::: {.orangebox data-latex=""}
 ## References
