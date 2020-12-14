@@ -1,5 +1,5 @@
 ---
-title: "Information for the final project" 
+title: "Information for the final project & group presentations" 
 author: "Brad Mackay"
 css: textBoxes.css
 output:
@@ -14,13 +14,20 @@ bibliography: we_refs.bib
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## What is it?
-The final project is an essay in which you explore in greater depth a topic that we have touched on during the course. You can either choose a question from one of the ones below, or you can decide on your own topic and come up with a research question. Please let me know what research question you have chosen before starting work
+# Final Project
+
+:::: {.pinkbox data-latex=""}
+## What is the final project?
+:::: 
+The final project is an essay in which you explore in greater depth a topic that we have touched on during the course. You can either choose a question from one of the ones below, or you can decide on your own topic and come up with a research question. Please let me know what research question you have chosen before starting work. You should follow formatting and citation guidelines as outlined in the [style sheet](https://www.uni-salzburg.at/fileadmin/multimedia/Anglistik%20und%20Amerikanistik/documents/Leselisten_Stylesheets/Style_Sheet_Ling_2015.pdf).
 
 -------
 
+:::: {.tealbox2 data-latex=""}
 ## When is it due?
+::::
 28th February 2022 at 23:59 on Blackboard. If anyone is planning on taking the Abschlussprüfung next semester and needs to have their marks for this course ready before this time, you will need to hand in earlier. Let me know if you are planning on doing this.
+
 
 ------------
 
@@ -28,28 +35,85 @@ The final project is an essay in which you explore in greater depth a topic that
 ## How long should it be?
 ::::
 
-Between 1500 - 2000 words.
+Between 1500 - 2000 words. The word count doesn't include your references. You should aim to use at least 5 different sources in your essay.
 
 -------------
 
+:::: {.darkbluebox data-latex=""}
 ## Example Questions
+:::: 
 
-:::: {.pinkbox data-latex=""}
-1. To what extent does the below quote from Bertrand-Bocandé exemplify British linguistic imperialism during the colonial period? 
+You can either use one of these exact questions, or use one of theses questions as a springboard for your own question.
+
+<br>
+
+**1. To what extent does the below quote from Bertrand-Bocandé (1849: 73, quoted in Holm 1988: 22-23) exemplify the views and policies of the British colonial system?** 
 
 >“It is clear that people used to expressing themselves with a rather simple language cannot
 easily elevate their intelligence to the genius of a European language. When they were in
 contact with the Portuguese and forced to communicate with them, speaking the same language, it was necessary that the varied expressions acquired during so many centuries of civilisation dropped their
 perfection, to adapt to ideas being born and to barbarous forms of language of half-savage
 peoples.”
-:::: 
+
+*N.B: Bertrand-Bocandé was here referring to Creole Portuguese spoken in Guinea*.
+
 
 <br>
 
-:::: {.yellowbox data-latex=""}
-2. Compare and contrast Kachru's three circles model @kachru1985standards and Schneider's dynamic model  @schneider2007postcolonial. Which do 
-::::
 
-3. What problems arise with the 3 way distinction of English speakers: ENL, ESL and EFL?
+**2. Compare and contrast Kachru's three circles model @kachru1985standards and Schneider's dynamic model @schneider2007postcolonial. Which model do you think does a better job as a framework for exploring World Englishes?** 
 
+---
+
+**3. "The traditional 3 way distinction of English speakers as being either ENL, ESL or EFL does not adequately represent the variation found in English speakers." To what extent do you agree/ disagree with this statement?**
+
+---
+
+**4. What future is there for English as a Lingua Franca in the European Union after Brexit?**
+
+------------
+
+**5. Compare and contrast the use of English in two different contexts. Think particularly about the 5 overarching questions we have been concerned with during this course:**
+
+* The **reasons** behind the spread of English (why has it spread?).
+* The **process** behind the spread of English (how has it spread?).
+* The **results** of this spread (i.e. where do you find English and what role does it play in different societies?).
+* The **properties** of these varieties (i.e. the phonetic, morphosyntactic, lexical variation found in different contexts).
+* The  **consequences** of the spread of English (how does the presence of English affect people's everyday lives? How do people in different contexts view the use of English?).
+
+------------
+
+**6. Consider the following paragraph from Janse (2003: v):**
+
+>"It has been estimated that more than half of the world’s languages have disappeared in the last 500 years [@sasse1992theory]. Of the remaining 6,809 languages listed in the latest printed edition of the Ethnologue [@grimes2000ethnologue] more than half are believed to be in danger of disappearing in the present century. According to one pessimistic view, only 600 languages stand a fair chance of surviving in the long run  [@krauss1992world]. The conclusion is inescapable: languages are dying at an alarming rate all over the world."
+
+**What role has the English linguistic imperialism played in language death across the globe?**
+
+---
+
+**7. Consider the following quote from Widdowson 1994:**
+
+> "How English develops in the world is no business whatever of native
+ speakers in England, the United States, or anywhere else. They have
+ no say in the matter, no right to intervene or pass judgement. They
+ are irrelevant. The very fact that English is an international language
+ means that no nation can have custody over it. To grant such custody
+ of the language, is necessarily to arrest its development and so under-
+ mine its international status [...]  it is only
+ international to the extent that it is not their language. It is not a
+ possession which they lease out to others, while still retaining the
+ freehold. Other people actually own it"
+ 
+ **To what extent do you agree/ disagree with this view?**
+
+# Group Presentations
+
+
+---
+nocite: |
+ @holm1988pidgins, @janse2003language, @widdowson1994ownership
+---
+
+:::: {.orangebox data-latex=""}
 ## References
+::::

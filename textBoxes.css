@@ -15,7 +15,7 @@
 }
 
 .pinkbox {
-  padding: 1em;
+  padding: 0 2.5em 0 0.5em;
   background: #D60487;
   color: black;
   border: none;
@@ -23,6 +23,15 @@
   font-size: 20px;
 }
 
+
+.darkbluebox {
+  padding: 0 2.5em 0 0.5em;
+  background: #02304D;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+}
 
 .greenbox {
   padding: 1em;
@@ -38,18 +47,34 @@
   background: #008080;
   color: white;
   border: none;
-  border-radius: 10px;
+  /*border-radius: 10px; */
   font-size: 20px;
 }
 
 .yellowbox {
-  padding: 1em;
+  padding: 0 2.5em 0 0.5em;
   background: #F9C24B;
   color: black;
   border: none;
   border-radius: 10px;
-  
-}
+  }
+
+.tealbox2 {
+  padding: 0 2.5em 0 0.5em;
+  background: #008080;
+  color: black;
+  border: none;
+  border-radius: 10px;
+  }
+
+.orangebox {
+  padding: 0 2.5em 0 0.5em;
+  background: #F68B0B;
+  color: black;
+  border: none;
+  border-radius: 10px;
+  }
+
 
 /* links */
 a { 
